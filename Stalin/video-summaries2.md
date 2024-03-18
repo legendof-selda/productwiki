@@ -1,4 +1,4 @@
-# Video Summaries
+# Video Summaries 2
 
 ## 1. ["Goodbye Print Statements, Hello Debugger!" - Nina Zakharenko (PyCon AU 2019)](https://www.youtube.com/watch?v=HHrVBKZLolg)
 
